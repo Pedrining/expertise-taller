@@ -33,7 +33,7 @@ Como se puede visualizar fueron testeadas los 10 deducibles y con un resultado e
 <img width="626" alt="D1256" src="https://github.com/user-attachments/assets/7357d937-0b50-434a-bb95-6de5bd61c94e"><br/>
 # Prueba D4514:<br/>
 <img width="643" alt="D4514" src="https://github.com/user-attachments/assets/45895e71-df8f-409a-9446-bedfb95fc3ff"><br/>
-# Prueba D5936:
-<img width="640" alt="D5936" src="https://github.com/user-attachments/assets/42495f68-08d4-409e-923a-cc2e5222882e">
-# Prueba D6007:
-<img width="629" alt="D6007" src="https://github.com/user-attachments/assets/e3e57ab9-9873-40a5-b42a-f6aa286ed1cc">
+# Prueba D5936:<br/>
+<img width="640" alt="D5936" src="https://github.com/user-attachments/assets/42495f68-08d4-409e-923a-cc2e5222882e"><br/>
+# Prueba D6007:<br/>
+<img width="629" alt="D6007" src="https://github.com/user-attachments/assets/e3e57ab9-9873-40a5-b42a-f6aa286ed1cc"><br/>
