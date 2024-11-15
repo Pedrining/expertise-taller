@@ -64,6 +64,9 @@ serverless dev
 
 This will start a local emulator of AWS Lambda and tunnel your requests to and from AWS Lambda, allowing you to interact with your function as if it were running in the cloud.
 
-Now you can invoke the function as before, but this time the function will be executed locally. Now you can develop your function locally, invoke it, and see the results immediately without having to re-deploy.
+Pruebas realizadas pra este proyecto 🚀
+
+Now you can invoke the function as before, bu<img width="929" alt="Test" src="https://github.com/user-attachments/assets/84c8ba40-6b71-4541-b1de-4eefaa6c5250">
+t this time the function will be executed locally. Now you can develop your function locally, invoke it, and see the results immediately without having to re-deploy.
 
 When you are done developing, don't forget to run `serverless deploy` to deploy the function to the cloud.
