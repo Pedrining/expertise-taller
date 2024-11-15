@@ -14,8 +14,9 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 
 Pruebas realizadas para este proyecto 🚀
 
-<img width="929" alt="Test" src="https://github.com/user-attachments/assets/84c8ba40-6b71-4541-b1de-4eefaa6c5250">
+<img width="929" alt="Test" src="https://github.com/user-attachments/assets/84c8ba40-6b71-4541-b1de-4eefaa6c5250"><br/>
 Como se puede visualizar fueron testeadas los 10 deducibles y con un resultado exitoso, se adjuntan las pruebas realizadas al endpoint desplegado en aws:<br/>
+## Ejecutando las pruebas ⚙️<br/>
 # Prueba D10:<br/>
 <img width="649" alt="D10" src="https://github.com/user-attachments/assets/51741271-6201-489c-b2ba-199ecaae924d"><br/>
 # Prueba D22:<br/>
